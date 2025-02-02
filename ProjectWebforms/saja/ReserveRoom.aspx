@@ -52,6 +52,7 @@
             elem.classList.add('selected');
         }
 
+
         /* Function to mark a room as booked */
         function markRoomAsBooked(room) {
             var rooms = document.getElementsByClassName('room');
