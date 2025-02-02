@@ -72,7 +72,9 @@
     <Content Include="ali\ali.aspx" />
     <Content Include="saja\saja.aspx" />
     <Content Include="Sofyan\sofyan.aspx" />
+    <Content Include="sura\profilePage.aspx" />
     <Content Include="sura\sura.aspx" />
+    <Content Include="sura\WebForm1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -112,12 +114,26 @@
     <Compile Include="Sofyan\sofyan.aspx.designer.cs">
       <DependentUpon>sofyan.aspx</DependentUpon>
     </Compile>
+    <Compile Include="sura\profilePage.aspx.cs">
+      <DependentUpon>profilePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sura\profilePage.aspx.designer.cs">
+      <DependentUpon>profilePage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="sura\sura.aspx.cs">
       <DependentUpon>sura.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="sura\sura.aspx.designer.cs">
       <DependentUpon>sura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sura\WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sura\WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
