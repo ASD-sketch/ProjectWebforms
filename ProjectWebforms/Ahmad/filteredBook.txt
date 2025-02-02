@@ -1,0 +1,3 @@
+17,Deep Learning with Python,Francois Chollet,1,0,reserved,~/Images/Books/default.png,GFG
+18,Database Design Fundamentals,C.J. Date,1,0,reserved,~/Images/Books/default.png,FCC
+19,Ahmad,Ahmad,3,1,available,~/Images/Books/default.png,dce
